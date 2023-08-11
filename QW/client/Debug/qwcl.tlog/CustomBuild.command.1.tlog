@@ -1,0 +1,85 @@
+^D:\GITHUB\BBENG\QW\CLIENT\D_DRAW.S
+cl /EP > .\Debug\d_draw.spp D:\GitHub\bbeng\QW\client\d_draw.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_draw.spp          >.\Debug\d_draw.asm 
+ml /c /Cp /coff /Fo.\Debug\d_draw.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_draw.asm 
+del .\Debug\d_draw.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_DRAW16.S
+cl /EP > .\Debug\d_draw16.spp D:\GitHub\bbeng\QW\client\d_draw16.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_draw16.spp          >.\Debug\d_draw16.asm 
+ml /c /Cp /coff /Fo.\Debug\d_draw16.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_draw16.asm 
+del .\Debug\d_draw16.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_PARTA.S
+cl /EP > .\Debug\d_parta.spp D:\GitHub\bbeng\QW\client\d_parta.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_parta.spp          >.\Debug\d_parta.asm 
+ml /c /Cp /coff /Fo.\Debug\d_parta.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_parta.asm 
+del .\Debug\d_parta.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_POLYSA.S
+cl /EP > .\Debug\d_polysa.spp D:\GitHub\bbeng\QW\client\d_polysa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_polysa.spp          >.\Debug\d_polysa.asm 
+ml /c /Cp /coff /Fo.\Debug\d_polysa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_polysa.asm 
+del .\Debug\d_polysa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_SCANA.S
+cl /EP > .\Debug\d_scana.spp D:\GitHub\bbeng\QW\client\d_scana.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_scana.spp          >.\Debug\d_scana.asm 
+ml /c /Cp /coff /Fo.\Debug\d_scana.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_scana.asm 
+del .\Debug\d_scana.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_SPR8.S
+cl /EP > .\Debug\d_spr8.spp D:\GitHub\bbeng\QW\client\d_spr8.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_spr8.spp          >.\Debug\d_spr8.asm 
+ml /c /Cp /coff /Fo.\Debug\d_spr8.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_spr8.asm 
+del .\Debug\d_spr8.spp
+^D:\GITHUB\BBENG\QW\CLIENT\D_VARSA.S
+cl /EP > .\Debug\d_varsa.spp D:\GitHub\bbeng\QW\client\d_varsa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\d_varsa.spp          >.\Debug\d_varsa.asm 
+ml /c /Cp /coff /Fo.\Debug\d_varsa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\d_varsa.asm 
+del .\Debug\d_varsa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\MATH.S
+cl /EP > .\Debug\math.spp D:\GitHub\bbeng\QW\client\math.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\math.spp          >.\Debug\math.asm 
+ml /c /Cp /coff /Fo.\Debug\math.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\math.asm 
+del .\Debug\math.spp
+^D:\GITHUB\BBENG\QW\CLIENT\R_ACLIPA.S
+cl /EP > .\Debug\r_aclipa.spp D:\GitHub\bbeng\QW\client\r_aclipa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\r_aclipa.spp          >.\Debug\r_aclipa.asm 
+ml /c /Cp /coff /Fo.\Debug\r_aclipa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\r_aclipa.asm 
+del .\Debug\r_aclipa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\R_ALIASA.S
+cl /EP > .\Debug\r_aliasa.spp D:\GitHub\bbeng\QW\client\r_aliasa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\r_aliasa.spp          >.\Debug\r_aliasa.asm 
+ml /c /Cp /coff /Fo.\Debug\r_aliasa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\r_aliasa.asm 
+del .\Debug\r_aliasa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\R_DRAWA.S
+cl /EP > .\Debug\r_drawa.spp D:\GitHub\bbeng\QW\client\r_drawa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\r_drawa.spp          >.\Debug\r_drawa.asm 
+ml /c /Cp /coff /Fo.\Debug\r_drawa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\r_drawa.asm 
+del .\Debug\r_drawa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\R_EDGEA.S
+cl /EP > .\Debug\r_edgea.spp D:\GitHub\bbeng\QW\client\r_edgea.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\r_edgea.spp          >.\Debug\r_edgea.asm 
+ml /c /Cp /coff /Fo.\Debug\r_edgea.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\r_edgea.asm 
+del .\Debug\r_edgea.spp
+^D:\GITHUB\BBENG\QW\CLIENT\R_VARSA.S
+cl /EP > .\Debug\r_varsa.spp D:\GitHub\bbeng\QW\client\r_varsa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\r_varsa.spp          >.\Debug\r_varsa.asm 
+ml /c /Cp /coff /Fo.\Debug\r_varsa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\r_varsa.asm 
+del .\Debug\r_varsa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\SND_MIXA.S
+cl /EP > .\Debug\snd_mixa.spp D:\GitHub\bbeng\QW\client\snd_mixa.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\snd_mixa.spp          >.\Debug\snd_mixa.asm 
+ml /c /Cp /coff /Fo.\Debug\snd_mixa.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\snd_mixa.asm 
+del .\Debug\snd_mixa.spp
+^D:\GITHUB\BBENG\QW\CLIENT\SURF16.S
+cl /EP > .\Debug\surf16.spp D:\GitHub\bbeng\QW\client\surf16.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\surf16.spp          >.\Debug\surf16.asm 
+ml /c /Cp /coff /Fo.\Debug\surf16.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\surf16.asm 
+del .\Debug\surf16.spp
+^D:\GITHUB\BBENG\QW\CLIENT\SURF8.S
+cl /EP > .\Debug\surf8.spp D:\GitHub\bbeng\QW\client\surf8.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\surf8.spp          >.\Debug\surf8.asm 
+ml /c /Cp /coff /Fo.\Debug\surf8.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\surf8.asm 
+del .\Debug\surf8.spp
+^D:\GITHUB\BBENG\QW\CLIENT\SYS_WINA.S
+cl /EP > .\Debug\sys_wina.spp D:\GitHub\bbeng\QW\client\sys_wina.s 
+..\gas2masm\debug\gas2masm.exe < .\Debug\sys_wina.spp          >.\Debug\sys_wina.asm 
+ml /c /Cp /coff /Fo.\Debug\sys_wina.obj /Zm /Zi                                                                                                                                                                                                                           .\Debug\sys_wina.asm 
+del .\Debug\sys_wina.spp

@@ -1,0 +1,205 @@
+﻿  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_draw.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_draw.asm
+.\Debug\d_draw.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_draw16.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_draw16.asm
+.\Debug\d_draw16.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_parta.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_parta.asm
+.\Debug\d_parta.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_polysa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_polysa.asm
+.\Debug\d_polysa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_scana.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_scana.asm
+.\Debug\d_scana.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_spr8.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_spr8.asm
+.\Debug\d_spr8.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  d_varsa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\d_varsa.asm
+.\Debug\d_varsa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  math.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\math.asm
+.\Debug\math.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_aclipa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_aclipa.asm
+.\Debug\r_aclipa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_aliasa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_aliasa.asm
+.\Debug\r_aliasa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_drawa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_drawa.asm
+.\Debug\r_drawa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_edgea.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_edgea.asm
+.\Debug\r_edgea.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  r_varsa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\r_varsa.asm
+.\Debug\r_varsa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  snd_mixa.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\snd_mixa.asm
+.\Debug\snd_mixa.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  surf16.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\surf16.asm
+.\Debug\surf16.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  surf8.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\surf8.asm
+.\Debug\surf8.asm(1): error A2088: END directive required at end of file
+  GAS2MASM Conversion
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30151 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  sys_wina.s
+  '..\gas2masm\debug\gas2masm.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Microsoft (R) Macro Assembler Version 14.29.30151.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: .\Debug\sys_wina.asm
+.\Debug\sys_wina.asm(1): error A2088: END directive required at end of file
+D:\programs\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'd_draw.s;d_draw16.s;d_parta.s;d_polysa.s;d_scana.s;d_spr8.s;d_varsa.s;math.s;r_aclipa.s;r_aliasa.s;r_drawa.s;r_edgea.s;r_varsa.s;snd_mixa.s;surf16.s;surf8.s;sys_wina.s' exited with code -1.
